@@ -7,9 +7,16 @@ let listaDeAmigos = [];
 function agregarAmigo() {
     //Capturar el valor del campo de entrada
     let inputAmigo = document.getElementById("amigo");
-    let nombre = inputAmigo.value.trim()
+    let nombre = inputAmigo.value.trim();
+
+    //validadr entrada
+    if (nombre === "") {
+        alert("Por favor, inserte un nombre.");
+        return;
+    }
 
     
+
 
 
 }
