@@ -37,3 +37,15 @@ function actualizarListaAmigos() {
         listaHTML.appendChild(li);
     }
 }
+
+function sortearAmigo () {
+    let resultadoHTML = document.getElementById("resultado");
+
+    //Validar que haya amigos disponibles
+    if (listaDeAmigos.length === 0) {
+        resultadoHTML.innerHTML = "<p>No hay amigos para sortear</p>";
+        return;
+    }
+
+    
+}
