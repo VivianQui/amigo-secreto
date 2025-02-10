@@ -21,3 +21,19 @@ function agregarAmigo() {
     //Limpiar el campo de entrada
     inputAmigo.value = "";
 }
+
+function actualizarListaAmigos() {
+    //Obtener el elemento de la lista
+    let listaHTML = document.getElementById("listaAmigos");
+    //Limpiar la lista existente
+    listaHTML.innerHTML = "";
+
+    //Iterar sobre el arreglo
+    for (let amigo of listaDeAmigos) {
+        let li = document.createElement("li");
+        li.textContent = amigo;
+
+        //Agregar elementos a la lista
+        listaHTML.appendChild(li);
+    }
+}
