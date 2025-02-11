@@ -53,7 +53,5 @@ function sortearAmigo () {
     let amigoSorteado = listaDeAmigos[indiceAleatorio];
 
     //Mostrar el resultado
-    
-
-
+    resultadoHTML.innerHTML = `<p>Amigo sorteado: <strong>${amigoSorteado}</strong></p>`
 }
