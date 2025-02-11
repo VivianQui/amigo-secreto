@@ -18,6 +18,9 @@ function agregarAmigo() {
     //Actualizar el array de amigos
     listaDeAmigos.push (nombre);
 
+    //Actualizar la lista en el HTML
+    actualizarListaAmigos();
+
     //Limpiar el campo de entrada
     inputAmigo.value = "";
 }
