@@ -1,2 +1,7 @@
-# amigo-secreto
-Descubrir quien es el amigo secreto
+# Amigo Secreto
+
+Este proyecto permite agregar nombres a una lista de amigos y seleccionar aleatoriamente uno de ellos
+
+# Características
+
+
