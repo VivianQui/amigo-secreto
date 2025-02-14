@@ -13,8 +13,17 @@ Este proyecto permite agregar nombres a una lista de amigos y seleccionar aleato
 
 ![alt text](instrucciones.png)
 
+# Tecnologías utilizadas
 
+* HTML
+* CSS
+* JavaScript
 
+# Desarrollado por
+
+![alt text](<foto (3).jpeg>) 
+
+Vivian Quiroga
 
 
 [def]: logo.png
