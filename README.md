@@ -1,7 +1,7 @@
 ![alt text](logo.png)
 
-Este proyecto permite agregar nombres a una lista de amigos y seleccionar aleatoriamente uno de ellos
 
+Este proyecto permite agregar nombres a una lista de amigos y seleccionar aleatoriamente uno de ellos
 
 # Características
 
@@ -9,8 +9,9 @@ Este proyecto permite agregar nombres a una lista de amigos y seleccionar aleato
 * Mostrar la lista de amigos en pantalla
 * Sortear un amigo de manera aleatoria
 
-# Descripción
+# Instrucciones de uso
 
+![alt text](instrucciones.png)
 
 
 
